@@ -1,4 +1,3 @@
-# cavaevinci
 
 I'm an software developer from Croatia.
 
