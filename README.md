@@ -13,11 +13,9 @@ I'm an software developer from Croatia.
 
 ---
 
-
-
 ### 📊 Stats
 
-
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavaevinci&layout=compact&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" /></a>
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cavaevinci&show_icons=true&theme=gruvbox)
 
