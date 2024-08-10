@@ -1,5 +1,5 @@
 
-I'm an software developer from Croatia.
+Software Developer from Croatia.
 
 ### 🧰 Languages and Tools
 
